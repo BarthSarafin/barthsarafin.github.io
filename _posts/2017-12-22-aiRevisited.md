@@ -22,11 +22,7 @@ choices. Nonetheless it was very interesting to learn how much can be done with 
 
 ## Improving our future
 > If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.
-<<<<<<< HEAD
 > - Elon Musk
-=======
-> Elon Musk
->>>>>>> 485b5b049cc342a1e791cc56b88c4e3448592deb
 
 What Elon Musk is saying here almost translates to: If you do not believe in a better future, stay in bed!
 Funnily enough, I encountered such a day this semester. And I took his _kind of an advice_ - I stayed in bed. It was worth it.
