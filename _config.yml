@@ -85,4 +85,8 @@ exclude:
   - README.md
   - CNAME
 
+<<<<<<< HEAD
   theme: jekyll-theme-merlot
+=======
+theme: jekyll-theme-merlot
+>>>>>>> 5cd860b8d5fdc96acca900de7552d9df79ad7129
