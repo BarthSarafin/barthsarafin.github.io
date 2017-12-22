@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AI and a bunch of cavemen
+title: Artificial intelligence
 ---
 
-# Artificial intelligence - are we just a bunch of scared cave men?
+# Are we just a bunch of scared cave men?
 I believe it is my time to take up the feather and write about the issue of artificial intelligence.
 We tend to read and listen to what all the important and influential people of modern society have to say.
 We read and listen, maybe process the information, sometimes discarding it as "too far away" to be of interest,
