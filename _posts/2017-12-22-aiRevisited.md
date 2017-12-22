@@ -11,6 +11,11 @@ Specifically we as a whole people. Not you, dear reader, or me. We actually are 
 In some ways we are just like the [the Borg](https://en.wikipedia.org/wiki/Borg_(Star_Trek)). We always want to improve everything.
 This is not a bad thing per se, as long as we do not lose our humanity. I think this sounds darker than it actually is.
 We are not actually there yet. We had to read an article from [Rodney Brooks](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/). He says that people believe the singularity of artificial intelligence will arrive tomorrow, but it will be a long time until it actually arrives. To some parts I do agree with him, but somehow I do not think he is right. The singularity will arrive and no one will truly realize it until it already passed.
+Rodney Brooks says it himself as he ends his article.
+
+> Predicting the future is really hard, especially ahead of time.
+> - Rodney Brooks
+
 People tend to find such solutions by accident, so it might happen any day or in a decade. So just keep on trying to improve what you can and enrich your own life as well.
 What I mean is to not lose focus on improving ourselves as well, not only our creations. Of course I want to see a great artificial super intelligence. Of course I would love to work on a project that tries to find those perfect lines of code and algorithms. Nonetheless I also want to live a full life and enjoy the more natural stuff of our surroundings. That is what perfection means for me.
 
